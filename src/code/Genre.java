@@ -1,0 +1,24 @@
+package code;
+
+public enum Genre {
+    DRAMA,
+    DYSTOPIAN,
+    FANTASY,
+    MYSTERY,
+    CLASSIC,
+    HISTORICAL_FICTION,
+    SCI_FI,
+    CRIME,
+    ROMANCE,
+    ADVENTURE,
+    SCIENCE,
+    TECHNOLOGY,
+    MEDICINE,
+    ECONOMICS,
+    PSYCHOLOGY,
+    ENVIRONMENTAL_SCIENCE,
+    EDUCATION,
+    HISTORY,
+    PHILOSOPHY,
+    ASTRONOMY
+}
