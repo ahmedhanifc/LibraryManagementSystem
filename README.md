@@ -19,7 +19,6 @@ This **Library Management System** is a Java-based application designed to manag
 ## **Technologies Used**
 
 - **Java 8+**: Core programming language.
-- **Swing**: For basic GUI (optional enhancement).
 - **Java Streams and Lambdas**: For filtering, sorting, and aggregations.
 - **Object-Oriented Programming (OOP)**: Abstract classes, inheritance, and polymorphism.
 
@@ -47,12 +46,6 @@ The program provides a user-friendly CLI for operations:
 - Reserve or check out library items.
 - Return borrowed items.
 - List all items sorted by category.
-
-### **Optional GUI**
-- Run `LibraryUI` (Swing) or `LibraryUIFX` (JavaFX) for a graphical interface.
-- Perform basic operations like searching, reserving, and checking out items.
-
----
 
 ## **Code Structure**
 
